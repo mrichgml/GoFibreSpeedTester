@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs / output
+*.log
+speed-results.csv
+last-failure.png
+low-download/
+example.html
+
+# OS
+Thumbs.db
+.DS_Store

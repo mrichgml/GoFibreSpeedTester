@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GoFibreSpeedTester/GoFibreSpeedTester.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/GoFibreSpeedTester.Tests/GoFibreSpeedTester.Tests.csproj" />
+  </Folder>
+</Solution>
